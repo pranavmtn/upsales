@@ -1,0 +1,2 @@
+# upsales
+WooCommerce Boost Sales
